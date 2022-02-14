@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CH13 TINDER</string>
+    <string name="facebook_app_id">272512351631682</string>
+    <string name="fb_login_protocol_scheme">fb272512351631682</string>
+</resources>
